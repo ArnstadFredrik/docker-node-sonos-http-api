@@ -1,13 +1,6 @@
-[![PayPal donate button](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.me/jishi "Donate once-off to this project using Paypal") [![Join the chat at gitter](https://img.shields.io/gitter/room/badges/shields.svg)](https://gitter.im/node-sonos-http-api/Lobby "Need assistance? Join the chat at Gitter.im") 
+# Docker
+This is only a docker version of the [node-sonos-http-api](https://github.com/jishi/node-sonos-http-api)
 
-⚠WARNING!⚠
-
-The upcoming Sonos software update (dubbed S2) seems to still work. However, it might break in the future if and when they decide to drop UPnP as control protocol. 
-
-
-Feel free to use it as you please. Consider donating if you want to support further development. Reach out on the gitter chat if you have issues getting it to run, instead of creating new issues, thank you!
-
-If you are also looking for cloud control (ifttt, public webhooks etc), see the [bronos-client](http://www.bronos.net) project! That pi image also contains an installation of this http-api.  
 
 SONOS HTTP API
 ==============
