@@ -4,7 +4,7 @@ This is only a docker version of the [node-sonos-http-api](https://github.com/ji
 [Docker Hub](https://hub.docker.com/r/arnstad/sonos-api)
 
 ```
-docker rund -d -p 5005:5005 arnstad/sonos-api
+docker run -d -p 5005:5005 arnstad/sonos-api
 ```
 
 Exposes the standard :5005 port from 
