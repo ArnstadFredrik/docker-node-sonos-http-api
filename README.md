@@ -1,6 +1,16 @@
 # Docker
 This is only a docker version of the [node-sonos-http-api](https://github.com/jishi/node-sonos-http-api)
 
+[Docker Hub](https://hub.docker.com/r/arnstad/sonos-api)
+
+```
+docker rund -d -p 5005:5005 arnstad/sonos-api
+```
+
+Exposes the standard :5005 port from 
+[node-sonos-http-api](https://github.com/jishi/node-sonos-http-api)
+
+
 
 SONOS HTTP API
 ==============
